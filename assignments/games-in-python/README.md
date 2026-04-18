@@ -6,7 +6,7 @@ Students will learn to build interactive games using Python. They will practice 
 
 ## 📝 Tasks
 
-### 🛠️ Build Hangman Game
+### 🛠️	Build Hangman Game
 
 #### Description
 Create a Hangman game where players guess letters to reveal a hidden word before running out of attempts. This will help you master string manipulation, loops, conditionals, and random selection in Python.
